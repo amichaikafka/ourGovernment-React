@@ -1,0 +1,12 @@
+footer {
+  margin-top: 48px;
+  font-size: 14px;
+  color: #495057;
+  width: 130%;
+  text-align: left;
+
+}
+
+body {
+    border-bottom: 8px solid rgb(31 41 55);
+}
